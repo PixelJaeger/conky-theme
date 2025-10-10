@@ -1,4 +1,4 @@
-![1](/conky_preview.jpg)
+<img align="right" src="/conky_preview.jpg">
 
 Original Theme by "wekers" -> https://github.com/wekers/conky<br>
 <br>
