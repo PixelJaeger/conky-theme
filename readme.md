@@ -1,3 +1,5 @@
+![1](/conky_preview.jpg)
+
 Original Theme by "wekers" -> https://github.com/wekers/conky<br>
 <br>
 Since i can not get the LUA scripting to work i modified the script to fit to my needs/liking.<br>
