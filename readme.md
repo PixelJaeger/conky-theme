@@ -8,7 +8,6 @@ It _(!)should(!)_ work by just typing "conky -c /path/to/this/file"<br>
 - You need to change "lua_load = '~/.conky/pixel_new/drives.lua'," in<br>
 the .conf file to the path of where you put your drives.lua!<br>
 - Remeber to change "wlp2s0" or "eno1" to YOUR Network-Interface<br>
-- you need to change the "Berlin" in "wttr.in/Berlin?0" to your city.
 - depending on the amount of drives you actively use the sda list<br>
 - will expand, but partitions like efi and swap will be filtered out<br>
 <br>
