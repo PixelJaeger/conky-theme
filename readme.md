@@ -17,7 +17,7 @@ For the sake of "anomyity" i blacked out a few things. <br>
 ### For minimal_left.conf<br>
 - Due to different Linux Versions using diffferent network interface names: change "wlan0" to your active interface name.<br><br>
 ### For minimal_right.conf<br>
-- change the "wttr.in/Berlin" part in minimal_right.conf to whatever city ou live in.<br>
+- change the "wttr.in/Berlin" part in minimal_right.conf to whatever city you live in.<br>
 - if you use debian/ubuntu based Linux Version: change "execi 3600 pacman -Q | wc -l" to "apt list --installed | wc -l" <br>
 - "execi 3600 cat /proc/cpuinfo | grep -i 'Model name' -m 1 | cut -c14-18,22-29,38-43" is cut to my liking. you might want to either remove the cutting or modify it.<br>
 - "${fs_used /}", "${fs_size /}" and ${fs_bar 11,170 /} show the root drive. for other drives replace the "/" with the mounting point of your additional drives (ie: /mnt/media)<br><br>
@@ -25,7 +25,7 @@ For the sake of "anomyity" i blacked out a few things. <br>
 you might or might not need to "install" the font instead of it just being in the same folder.<br>
 
 ### The original
-i sadly forgot where i saw the original so i can neither attribute them nor give them credit. So if your the one who made the original: credits and kudos to ya!<br>
+i sadly forgot where i saw the original so i can neither attribute them nor give them credit. So if you're the one who made the original: credits and kudos to ya!<br>
 
 ## Authors
 
