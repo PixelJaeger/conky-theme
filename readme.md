@@ -13,7 +13,8 @@ For the sake of "anomyity" i blacked out a few things. <br>
 ### For all .conf:<br>
 - The scripts were made with a 1366 x 768 Resolution in mind<br><br>
 ### For minimal_top.conf<br>
-- The config uses RythmBox as a mediaplayer information source. If you use other media players it wont work unless you update the script by yourself.<br><br>
+- The config uses either VLC* or RythmBox as a mediaplayer information source. If you use other media players it wont work unless you update the script by yourself.<br>
+* = vlc need to be started with "vlc --extraintf rc --rc-host localhost:4212" in order to work with the script<br><br>
 ### For minimal_left.conf<br>
 - Due to different Linux Versions using diffferent network interface names: change "wlan0" to your active interface name.<br><br>
 ### For minimal_right.conf<br>
